@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable tv1
+drawable tv2
+drawable tv3
+id listView
+id main
+id recylcerView
+id tvImage
+id tvName
+id tvPrice
+layout activity_main
+layout activity_tv_products
+layout single_tv_design
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Store_app_2
+style Theme.Store_app_2
+xml backup_rules
+xml data_extraction_rules
